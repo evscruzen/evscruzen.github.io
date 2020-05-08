@@ -13,7 +13,7 @@ layout: default
 <div class="container">
     <img class="container__image" src="assets/me.jpg"/>
     <div class="container__text">
-        <h2>Welcome to my site.</h2>
+        <h1><b>Welcome to my site.</b></h1>
         <p>I am a Software Engineer with a Bachelors in Computer Science from the University of Massachusetts, Dartmouth.</p>
         <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
         <p>Highly trainable. Ready to roll.</p>
@@ -22,21 +22,21 @@ layout: default
     <br />
 </div>
 <div style="clear:both" markdown="1">
-{{ "# Education" | markdownify }}
+{{ "# **Education**" | markdownify }}
 UMass Dartmouth, Class of 2020  
 Bachelor of Science (BS)  
 Computer Science  
   
-* Senior Design Project: NLP4NM  
+* **Senior Design Project: NLP4NM**  
   * Worked for Naval Undersea Warfare Center (NUWC) to make an automatic text parser for translating Naval Messages to parsable data. [**Link on GitHub**](https://github.com/Wamadahama/NLP4NM/)  
   * **Scrum master** for team, composed reports and organized team meetings as well as front end implementation for text parser (Python, Flask, SQLite).  <br/><br/>
 * Collaborated to create android application for Android App Development class within two weeks utilizing Java, SQL, JSON parsing, and XML editing. [**Link on GitHub**](https://github.com/tehvedo/fehunitbuilder)<br/><br/>
 * Junior Year Lab Assignments
   * Completed rigorous weekly coding assignments in C, including forking, message queues, and semaphores. Obtained 100/100 on every assignment.  <br/><br/>
 * Completed biweekly rigorous assignments in C involving both iterative and procedural programming. Was able to skip final exam due to exceptional class grades.  <br/><br/>
-* Dean's List Recipient (Multiple years)
+* **Dean's List Recipient (Multiple years)**
 
-{{ "# Experience" | markdownify }}
+{{ "# **Experience**" | markdownify }}
 **Global Power Systems (GPS) Intern**  
 Doble Engineering  
 Marlborough, MA  
@@ -61,10 +61,10 @@ July, 2018 - Aug, 2018
 * Taught primary schoolers how to do drag and drop coding  
 * Ensured the children had fun as well completed certain projects within allotted time  
 
-{{ "# Resume" | markdownify }}
-Download my resume [here.](/assets/Evan_Cruzen_Resume.pdf)
+{{ "# **Resume**" | markdownify }}
+Download my resume [**here.**](/assets/Evan_Cruzen_Resume.pdf)
 
-{{ "# Contact Info" | markdownify }}
-Send me an email at: [evanscruzen@gmail.com](mailto:evanscruzen@gmail.com)  
-Or check out my [LinkedIn.](https://www.linkedin.com/in/evan-cruzen-486b63128)
+{{ "# **Contact Info**" | markdownify }}
+Send me an email at: [**evanscruzen@gmail.com**](mailto:evanscruzen@gmail.com)  
+Or check out my [**LinkedIn.**](https://www.linkedin.com/in/evan-cruzen-486b63128)
 </div><div><div id='contact'></div>
