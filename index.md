@@ -12,7 +12,7 @@ layout: default
 
 <div class="bip">
     <h1><b>Welcome to my site.</b></h1>
-    <p>I am a Software Engineer with a Bachelor of Science (BS) degree in Computer Science from the University of Massachusetts, Dartmouth.</p>
+    <p>I am a Software Engineer with a Bachelor of Science degree in Computer Science from the University of Massachusetts, Dartmouth.</p>
     <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
     <p>Highly trainable. Ready to roll.</p>
     <center><a href="#contact">Contact info</a></center>
@@ -22,7 +22,7 @@ layout: default
     <div class="container__text">
         <div class="bop">
             <h1><b>Welcome to my site.</b></h1>
-            <p>I am a Software Engineer with a Bachelor of Science (BS) degree in Computer Science from the University of Massachusetts, Dartmouth.</p>
+            <p>I am a Software Engineer with a Bachelor of Science degree in Computer Science from the University of Massachusetts, Dartmouth.</p>
             <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
             <p>Highly trainable. Ready to roll.</p>
             <a href="#contact">Contact info</a><br><br />
@@ -38,12 +38,12 @@ Computer Science
   
 * **Senior Design Project: NLP4NM**  
   * Worked for Naval Undersea Warfare Center (NUWC) to make an automatic text parser for translating Naval Messages to parsable data. <!--[**Link on GitHub**](https://github.com/Wamadahama/NLP4NM/)  -->
-  * **Scrum master** for team, composed reports and organized team meetings as well as front end implementation for text parser (Python, Flask, SQLite).  <br/><br/>
-* Collaborated to create android application for Android App Development class within two weeks utilizing Java, SQL, JSON parsing, and XML editing. [**Link on GitHub**](https://github.com/tehvedo/fehunitbuilder)<br/><br/>
+  * **Scrum Master** for team; composed reports, organized team meetings, and created front-end implementation for text parser (Python, Flask, SQLite).  <br/><br/>
+* Lead collaboration to create Android application for Android App Development class in short time period utilizing Java, SQL, JSON parsing, and XML editing. [**Link on GitHub**](https://github.com/tehvedo/fehunitbuilder)<br/><br/>
 * Junior Year Lab Assignments
-  * Completed rigorous weekly coding assignments in C, including forking, message queues, and semaphores. Obtained 100/100 on every assignment.  <br/><br/>
-* Completed biweekly rigorous assignments in C involving both iterative and procedural programming. Was able to skip final exam due to exceptional class grades.  <br/><br/>
-* **Dean's List Recipient (Multiple years)**
+  * Completed weekly coding assignments in C, including forking, message queues, and semaphores. Obtained 100/100 on every assignment.  <br/><br/>
+* Completed biweekly rigorous assignments in C involving both iterative and procedural programming. Exempt from final exam due to exceptional class grades.  <br/><br/>
+* **Dean's List Recipient (multiple years)**
 
 {{ "# **Experience**" | markdownify }}
 **Global Power Systems (GPS) Intern**  
@@ -51,9 +51,9 @@ Doble Engineering
 Marlborough, MA  
 May, 2019 - Aug, 2019  
 Dec, 2019 - Jan, 2020  
-* Sent out electro-magnetic interference (EMI) kits to engineers in the field.  
-* Entered and QA'd customer orders utilizing Microsoft Dynamics NAV.  
-* Performed EMI equipment calibration.
+* Distributed electro-magnetic interference (EMI) kits to engineers in the field  
+* Entered and QA'd customer orders utilizing Microsoft Dynamics NAV  
+* Performed EMI equipment calibration
 
 **Computer Laboratory Assistant**  
 Center for Visual and Performing Arts (CVPA)  
@@ -67,8 +67,8 @@ Sept, 2019 - May, 2020
 CodeWiz  
 Westford, MA  
 July, 2018 - Aug, 2018  
-* Taught primary schoolers how to do drag and drop coding  
-* Ensured the children had fun as well completed certain projects within allotted time  
+* Taught elementary school students coding to develop their own Android applications  
+* Ensured my students had fun while completing their projects within allotted time  
 
 {{ "# **Resume**" | markdownify }}
 Download my resume [**here.**](/assets/Evan_Cruzen_Resume.pdf)
