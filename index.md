@@ -10,16 +10,34 @@ layout: default
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
-<div class="container">
-    <img class="container__image" src="assets/me.jpg"/>
-    <div class="container__text">
-        <h1><b>Welcome to my site.</b></h1>
-        <p>I am a Software Engineer with a Bachelors in Computer Science from the University of Massachusetts, Dartmouth.</p>
-        <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
-        <p>Highly trainable. Ready to roll.</p>
-        <a href="#contact">Contact info</a>
+<!-- Mobile layout -->
+<div class="visibledevice">
+    <div class="container1">
+        <img class="container__image" src="assets/me.jpg"/>
+        <div class="container__text">
+            <h1><b>Welcome to my site.</b></h1>
+            <p>I am a Software Engineer with a Bachelors in Computer Science from the University of Massachusetts, Dartmouth.</p>
+            <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
+            <p>Highly trainable. Ready to roll.</p>
+            <a href="#contact">Contact info</a>
+        </div>
+        <br />
     </div>
-    <br />
+</div>
+
+<!-- Desktop layout-->
+<div class="visibledesktop">this displays for desktop and tablet
+    <div class="container2">
+        <img class="container__image" src="assets/me.jpg"/>
+        <div class="container__text">
+            <h1><b>Welcome to my site.</b></h1>
+            <p>I am a Software Engineer with a Bachelors in Computer Science from the University of Massachusetts, Dartmouth.</p>
+            <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
+            <p>Highly trainable. Ready to roll.</p>
+            <a href="#contact">Contact info</a>
+        </div>
+        <br />
+    </div>
 </div>
 <div style="clear:both" markdown="1">
 {{ "# **Education**" | markdownify }}
