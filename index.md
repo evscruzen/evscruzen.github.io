@@ -17,7 +17,7 @@ layout: default
         <p>I am a Software Engineer with a Bachelors in Computer Science from the University of Massachusetts, Dartmouth.</p>
         <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
         <p>Highly trainable. Ready to roll.</p>
-        <a href="#contact" html="scroll-behavior: smooth">Contact info</a>
+        <a href="#contact">Contact info</a>
     </div>
     <br />
 </div>
@@ -60,6 +60,9 @@ Westford, MA
 July, 2018 - Aug, 2018  
 * Taught primary schoolers how to do drag and drop coding  
 * Ensured the children had fun as well completed certain projects within allotted time  
+
+{{ "# Resume" | markdownify }}
+Download my resume [here.](/assets/Evan_Cruzen_Resume.pdf)
 
 {{ "# Contact Info" | markdownify }}
 Send me an email at: [evanscruzen@gmail.com](mailto:evanscruzen@gmail.com)  
