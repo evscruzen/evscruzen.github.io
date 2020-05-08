@@ -10,35 +10,17 @@ layout: default
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
-<!-- Mobile layout -->
-<div class="visibledevice">
-    <div class="container1">
-        <img class="container__image" src="assets/me.jpg"/>
-        <div class="container__text">
-            <h1><b>Welcome to my site.</b></h1>
-            <p>I am a Software Engineer with a Bachelors in Computer Science from the University of Massachusetts, Dartmouth.</p>
-            <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
-            <p>Highly trainable. Ready to roll.</p>
-            <a href="#contact">Contact info</a>
-        </div>
-        <br />
+<div class="container">
+    <img class="container__image" src="assets/me.jpg"/>
+    <div class="container__text">
+        <h1><b>Welcome to my site.</b></h1>
+        <p>I am a Software Engineer with a Bachelors in Computer Science from the University of Massachusetts, Dartmouth.</p>
+        <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
+        <p>Highly trainable. Ready to roll.</p>
+        <a href="#contact">Contact info</a><br><br />
     </div>
 </div>
 
-<!-- Desktop layout-->
-<div class="visibledesktop">this displays for desktop and tablet
-    <div class="container2">
-        <img class="container__image" src="assets/me.jpg"/>
-        <div class="container__text">
-            <h1><b>Welcome to my site.</b></h1>
-            <p>I am a Software Engineer with a Bachelors in Computer Science from the University of Massachusetts, Dartmouth.</p>
-            <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
-            <p>Highly trainable. Ready to roll.</p>
-            <a href="#contact">Contact info</a>
-        </div>
-        <br />
-    </div>
-</div>
 <div style="clear:both" markdown="1">
 {{ "# **Education**" | markdownify }}
 UMass Dartmouth, Class of 2020  
@@ -46,7 +28,7 @@ Bachelor of Science (BS)
 Computer Science  
   
 * **Senior Design Project: NLP4NM**  
-  * Worked for Naval Undersea Warfare Center (NUWC) to make an automatic text parser for translating Naval Messages to parsable data. [**Link on GitHub**](https://github.com/Wamadahama/NLP4NM/)  
+  * Worked for Naval Undersea Warfare Center (NUWC) to make an automatic text parser for translating Naval Messages to parsable data. <!--[**Link on GitHub**](https://github.com/Wamadahama/NLP4NM/)  -->
   * **Scrum master** for team, composed reports and organized team meetings as well as front end implementation for text parser (Python, Flask, SQLite).  <br/><br/>
 * Collaborated to create android application for Android App Development class within two weeks utilizing Java, SQL, JSON parsing, and XML editing. [**Link on GitHub**](https://github.com/tehvedo/fehunitbuilder)<br/><br/>
 * Junior Year Lab Assignments

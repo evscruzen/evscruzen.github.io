@@ -11,5 +11,5 @@ layout: default
 <meta name="theme-color" content="#ffffff">
 
 <div markdown="1">
-   My text with **markdown** syntax, this is the resume
+   This is the resume page, how did you find it? It's unused for now.
 </div>
