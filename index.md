@@ -10,14 +10,23 @@ layout: default
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
+<div class="bip">
+    <h1><b>Welcome to my site.</b></h1>
+    <p>I am a Software Engineer with a Bachelor of Science (BS) degree in Computer Science from the University of Massachusetts, Dartmouth.</p>
+    <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
+    <p>Highly trainable. Ready to roll.</p>
+    <center><a href="#contact">Contact info</a></center>
+</div>
 <div class="container">
     <img class="container__image" src="assets/me.jpg"/>
     <div class="container__text">
-        <h1><b>Welcome to my site.</b></h1>
-        <p>I am a Software Engineer with a Bachelors in Computer Science from the University of Massachusetts, Dartmouth.</p>
-        <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
-        <p>Highly trainable. Ready to roll.</p>
-        <a href="#contact">Contact info</a><br><br />
+        <div class="bop">
+            <h1><b>Welcome to my site.</b></h1>
+            <p>I am a Software Engineer with a Bachelor of Science (BS) degree in Computer Science from the University of Massachusetts, Dartmouth.</p>
+            <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
+            <p>Highly trainable. Ready to roll.</p>
+            <a href="#contact">Contact info</a><br><br />
+        </div>
     </div>
 </div>
 
@@ -66,5 +75,5 @@ Download my resume [**here.**](/assets/Evan_Cruzen_Resume.pdf)
 
 {{ "# **Contact Info**" | markdownify }}
 Send me an email at: [**evanscruzen@gmail.com**](mailto:evanscruzen@gmail.com)  
-Or check out my [**LinkedIn.**](https://www.linkedin.com/in/evan-cruzen-486b63128)
+Or check out my [**LinkedIn**](https://www.linkedin.com/in/evan-cruzen-486b63128)
 </div><div><div id='contact'></div>
