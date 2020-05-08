@@ -63,7 +63,7 @@ Sept, 2019 - May, 2020
 * Performed IT duties such as updating and configuring multiple PC labs  
 * Troubleshooted issues (Registry problems, connection to update servers, etc)  
 
-**Temporary Teaching Assistant**
+**Temporary Teaching Assistant**  
 CodeWiz  
 Westford, MA  
 July, 2018 - Aug, 2018  
