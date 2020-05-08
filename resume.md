@@ -9,3 +9,7 @@ layout: default
 <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#009cc9">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
+
+<div markdown="1">
+   My text with **markdown** syntax, this is the resume
+</div>

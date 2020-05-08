@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+html {
+  scroll-behavior: smooth;
+}
+
+.container {
+    max-width: auto;
+    &__image {
+        max-width: 250px;
+        width: 40%;
+        margin: 30px 30px 30px 0;
+        float: right;
+    }
+    &__text {
+        display: inline;
+    }
+}
