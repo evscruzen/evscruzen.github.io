@@ -37,12 +37,12 @@ Bachelor of Science (BS)
 Computer Science  
   
 * **Senior Design Project: NLP4NM**  
-  * Worked for Naval Undersea Warfare Center (NUWC) to make an automatic text parser for translating Naval Messages to parsable data. <!--[**Link on GitHub**](https://github.com/Wamadahama/NLP4NM/)  -->
-  * **Scrum Master** for team; composed reports, organized team meetings, and created front-end implementation for text parser (Python, Flask, SQLite).  <br/><br/>
-* Lead collaboration to create Android application for Android App Development class in short time period utilizing Java, SQL, JSON parsing, and XML editing. [**Link on GitHub**](https://github.com/tehvedo/fehunitbuilder)<br/><br/>
+  * Worked for Naval Undersea Warfare Center (NUWC) to make an automatic text parser for translating Naval Messages to parsable data <!--[**Link on GitHub**](https://github.com/Wamadahama/NLP4NM/)  -->
+  * **Scrum Master** for team; composed reports, organized team meetings, and created front-end implementation for text parser (Python, Flask, SQLite)  <br/><br/>
+* Led collaboration to create Android application for Android App Development class in short time period utilizing Java, SQL, JSON parsing, and XML editing [**Link on GitHub**](https://github.com/tehvedo/fehunitbuilder)<br/><br/>
 * Junior Year Lab Assignments
-  * Completed weekly coding assignments in C, including forking, message queues, and semaphores. Obtained 100/100 on every assignment.  <br/><br/>
-* Completed biweekly rigorous assignments in C involving both iterative and procedural programming. Exempt from final exam due to exceptional class grades.  <br/><br/>
+  * Completed weekly coding assignments in C, including forking, message queues, and semaphores. Obtained 100/100 on every assignment  <br/><br/>
+* Completed biweekly rigorous assignments in C involving both iterative and procedural programming. Exempt from final exam due to exceptional class grades  <br/><br/>
 * **Dean's List Recipient (multiple years)**
 
 {{ "# **Experience**" | markdownify }}
