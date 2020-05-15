@@ -11,7 +11,7 @@ layout: default
 <meta name="theme-color" content="#ffffff">
 
 <div class="bip">
-    <h1><b>Welcome to my site.</b></h1>
+    <h1><b>Welcome.</b></h1>
     <p>I am a Software Engineer with a Bachelor of Science degree in Computer Science from the University of Massachusetts, Dartmouth.</p>
     <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
     <p>Highly trainable. Ready to roll.</p>
@@ -21,7 +21,7 @@ layout: default
     <img class="container__image" src="assets/me.jpg"/>
     <div class="container__text">
         <div class="bop">
-            <h1><b>Welcome to my site.</b></h1>
+            <h1><b>Welcome.</b></h1>
             <p>I am a Software Engineer with a Bachelor of Science degree in Computer Science from the University of Massachusetts, Dartmouth.</p>
             <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
             <p>Highly trainable. Ready to roll.</p>
@@ -71,7 +71,7 @@ July, 2018 - Aug, 2018
 * Ensured my students had fun while completing their projects within allotted time  
 
 {{ "# **Resume**" | markdownify }}
-Download my resume [**here.**](/assets/Evan_Cruzen_Resume.pdf)
+Download my resume [**here**](/assets/Evan_Cruzen_Resume.pdf)
 
 {{ "# **Contact Info**" | markdownify }}
 Send me an email at: [**evanscruzen@gmail.com**](mailto:evanscruzen@gmail.com)  
