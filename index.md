@@ -71,7 +71,7 @@ July, 2018 - Aug, 2018
 * Ensured my students had fun while completing their projects within allotted time  
 
 {{ "# **Resume**" | markdownify }}
-Download my resume [**here**](/assets/Evan Cruzen Resume.docx)
+Download my resume [**here**](https://docs.google.com/document/d/1s4SIUuEENXUxwgMfRFg00Tr1pSFCsMaY7A9F86chPZI/edit?usp=sharing)
 
 {{ "# **Contact Info**" | markdownify }}
 Send me an email at: [**evanscruzen@gmail.com**](mailto:evanscruzen@gmail.com)  
