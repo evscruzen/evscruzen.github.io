@@ -11,26 +11,52 @@ layout: default
 <meta name="theme-color" content="#ffffff">
 
 <div class="bip">
-    <h1><b>Welcome.</b></h1>
-    <p>I am a Software Engineer with a Bachelor of Science degree in Computer Science from the University of Massachusetts, Dartmouth.</p>
-    <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
-    <p>Highly trainable. Ready to roll.</p>
-    <center><a href="#contact">Contact info</a></center>
+        <h1><b>Welcome.</b></h1>
+        <p><b>Software Engineer</b> with a Bachelor of Science degree in Computer Science from the University of Massachusetts, Dartmouth; 2020 graduate.</p>
+        <p>Experience in C, Java, Python, HTML, CSS, and Salesforce CRM.</p>
+        <p>Highly trainable and ready to roll as a team player or individual contributor.</p>
+        <a href="#contact">Contact info</a><br><br />
 </div>
 <div class="container">
     <img class="container__image" src="assets/me.jpg"/>
     <div class="container__text">
         <div class="bop">
             <h1><b>Welcome.</b></h1>
-            <p>I am a Software Engineer with a Bachelor of Science degree in Computer Science from the University of Massachusetts, Dartmouth.</p>
-            <p>I have experience in C, Java, Python, HTML &amp; CSS.</p>
-            <p>Highly trainable. Ready to roll.</p>
+            <p><b>Software Engineer</b> with a Bachelor of Science degree in Computer Science from the University of Massachusetts, Dartmouth; 2020 graduate.</p>
+            <p>Experience in C, Java, Python, HTML, CSS, and Salesforce CRM.</p>
+            <p>Highly trainable and ready to roll as a team player or individual contributor.</p>
             <a href="#contact">Contact info</a><br><br />
         </div>
     </div>
 </div>
 
 <div style="clear:both" markdown="1">
+{{ "# **Experience**" | markdownify }}
+**Global Power Systems (GPS) Intern**  
+Doble Engineering  
+Marlborough, MA  
+May - Aug, 2019  
+Dec, 2019 - Jan, 2020  
+* Distributed electro-magnetic interference (EMI) kits to engineers in the field  
+* Initiated a process to streamline QA saving time and money
+* Entered and QA'd customer orders utilizing Microsoft Dynamics NAV  
+* Performed EMI equipment calibration
+
+**Computer Laboratory Assistant**  
+Center for Visual and Performing Arts (CVPA)  
+UMass Dartmouth  
+Dartmouth, MA  
+Sept, 2019 - May, 2020  
+* Performed IT duties such as updating and configuring multiple PC labs  
+* Troubleshooted issues (Registry problems, connection to update servers, etc)  
+
+**Temporary Teaching Assistant**  
+CodeWiz  
+Westford, MA  
+July - Aug, 2018  
+* Taught elementary school students coding to develop their own Android applications  
+* Ensured my students had fun while completing their projects within allotted time  
+
 {{ "# **Education**" | markdownify }}
 UMass Dartmouth, Class of 2020  
 Bachelor of Science (BS)  
@@ -46,33 +72,8 @@ GPA: **3.2**
 * Completed biweekly rigorous assignments in C involving both iterative and procedural programming. Exempt from final exam due to exceptional class grades  <br/><br/>
 * **Dean's List Recipient (multiple years)**
 
-{{ "# **Experience**" | markdownify }}
-**Global Power Systems (GPS) Intern**  
-Doble Engineering  
-Marlborough, MA  
-May, 2019 - Aug, 2019  
-Dec, 2019 - Jan, 2020  
-* Distributed electro-magnetic interference (EMI) kits to engineers in the field  
-* Entered and QA'd customer orders utilizing Microsoft Dynamics NAV  
-* Performed EMI equipment calibration
-
-**Computer Laboratory Assistant**  
-Center for Visual and Performing Arts (CVPA)  
-UMass Dartmouth  
-Dartmouth, MA  
-Sept, 2019 - May, 2020  
-* Performed IT duties such as updating and configuring multiple PC labs  
-* Troubleshooted issues (Registry problems, connection to update servers, etc)  
-
-**Temporary Teaching Assistant**  
-CodeWiz  
-Westford, MA  
-July, 2018 - Aug, 2018  
-* Taught elementary school students coding to develop their own Android applications  
-* Ensured my students had fun while completing their projects within allotted time  
-
 {{ "# **Resume**" | markdownify }}
-Download my resume [**here**](https://docs.google.com/document/d/1s4SIUuEENXUxwgMfRFg00Tr1pSFCsMaY7A9F86chPZI/edit?usp=sharing)
+Download my full resume [**here**](https://docs.google.com/document/d/1s4SIUuEENXUxwgMfRFg00Tr1pSFCsMaY7A9F86chPZI/edit?usp=sharing)
 
 {{ "# **Contact Info**" | markdownify }}
 Send me an email at: [**evanscruzen@gmail.com**](mailto:evanscruzen@gmail.com)  
