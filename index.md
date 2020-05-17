@@ -11,7 +11,6 @@ layout: default
 <meta name="theme-color" content="#ffffff">
 
 <div class="bip">
-        <h1><b>Welcome.</b></h1>
         <p><b>Software Engineer</b> with a Bachelor of Science degree in Computer Science from the University of Massachusetts, Dartmouth; 2020 graduate.</p>
         <p>Experience in C, Java, Python, HTML, CSS, and Salesforce CRM.</p>
         <p>Highly trainable and ready to roll as a team player or individual contributor.</p>
@@ -21,7 +20,6 @@ layout: default
     <img class="container__image" src="assets/me.jpg"/>
     <div class="container__text">
         <div class="bop">
-            <h1><b>Welcome.</b></h1>
             <p><b>Software Engineer</b> with a Bachelor of Science degree in Computer Science from the University of Massachusetts, Dartmouth; 2020 graduate.</p>
             <p>Experience in C, Java, Python, HTML, CSS, and Salesforce CRM.</p>
             <p>Highly trainable and ready to roll as a team player or individual contributor.</p>
