@@ -35,6 +35,7 @@ layout: default
 UMass Dartmouth, Class of 2020  
 Bachelor of Science (BS)  
 Computer Science  
+GPA: **3.2**  
   
 * **Senior Design Project: NLP4NM**  
   * Worked for Naval Undersea Warfare Center (NUWC) to make an automatic text parser for translating Naval Messages to parsable data <!--[**Link on GitHub**](https://github.com/Wamadahama/NLP4NM/)  -->
