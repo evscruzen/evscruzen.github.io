@@ -84,10 +84,7 @@ GPA: **3.2**
         <img src="assets/friends.jpg" style="width:100%">
     </div>
 </div>
-Longboarding  
-Snowboarding  
-Hiking & Nature Photography  
-And hanging with my friends and family  
+Longboarding, snowboarding, hiking & nature photography, and hanging with my friends and family.  
 
 I also love electronic music, here's my favorite album:  
 <iframe src="https://open.spotify.com/embed/album/7oGejxIa9yVGrUvwt74OPU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
