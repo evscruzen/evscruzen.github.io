@@ -15,7 +15,7 @@ layout: default
             <p><b>Software Engineer</b> with a Bachelor of Science degree in Computer Science from the University of Massachusetts, Dartmouth; 2020 graduate.</p>
             <p>Experience in C, Java, Python, SQL, HTML &amp; CSS, GitHub and Salesforce CRM.</p>
             <p>Highly trainable and ready to roll as a team player or individual contributor.</p>
-            <a href="#contact">Contact info</a><br><br />
+            <center><a href="#contact">Contact info</a></center><br><br />
         </div>
     </div>
 </div>
