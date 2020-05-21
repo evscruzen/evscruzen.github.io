@@ -38,8 +38,8 @@ Center for Visual and Performing Arts (CVPA)
 UMass Dartmouth  
 Dartmouth, MA  
 Sept, 2019 - May, 2020  
-* Updated software (Maya, graphics drivers, etc) and configured PCs
-* Troubleshooted and resolved issues (Registry problems, connection to update servers, etc)
+* Updated software (Maya, graphics drivers, etc.) and configured PCs
+* Troubleshooted and resolved issues (Registry problems, connection to update servers, etc.)
 
 **Teaching Assistant**  
 CodeWiz  
