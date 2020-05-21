@@ -20,7 +20,7 @@ layout: default
     </div>
 </div>
 
-<div style="clear:both" markdown="1">
+<body style="clear:both" markdown="1">
 {{ "# **Experience**" | markdownify }}
 **Global Power Systems (GPS) Intern**  
 Doble Engineering  
@@ -92,4 +92,4 @@ Download my full resume [**here**](https://docs.google.com/document/d/1s4SIUuEEN
 {{ "# **Contact Info**" | markdownify }}
 Send me an email at: [**evanscruzen@gmail.com**](mailto:evanscruzen@gmail.com)  
 Or check out my [**LinkedIn**](https://www.linkedin.com/in/evan-cruzen-486b63128)
-</div><div><div id='contact'></div>
+</body><div id='contact'></div>
