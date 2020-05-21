@@ -86,9 +86,6 @@ GPA: **3.2**
 </div>
 Longboarding, snowboarding, hiking & nature photography, and hanging with my friends and family.  
 
-I also love electronic music, here's my favorite album:  
-<iframe src="https://open.spotify.com/embed/album/7oGejxIa9yVGrUvwt74OPU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 {{ "# **Resume**" | markdownify }}
 Download my full resume [**here**](https://docs.google.com/document/d/1s4SIUuEENXUxwgMfRFg00Tr1pSFCsMaY7A9F86chPZI/export?format=pdf)
 
