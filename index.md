@@ -9,7 +9,7 @@ layout: default
         <center><a href="#contact">Contact info</a></center><br><br />
 </div>
 <div class="container">
-    <img class="container__image" src="assets/me.jpg"/>
+    <img alt="Evan C Picture" class="container__image" src="assets/me.jpg"/>
     <div class="container__text">
         <div class="bop">
             <p><b>Software Engineer</b> with a Bachelor of Science degree in Computer Science from the University of Massachusetts, Dartmouth; 2020 graduate.</p>
@@ -72,16 +72,16 @@ GPA: **3.2**
 {{ "# **Hobbies**" | markdownify }}
 <div class="row">
     <div class="column">
-        <img src="assets/snowboarding.jpg" style="width:100%">
+        <img alt="Snowboarding" src="assets/snowboarding.jpg" style="width:100%">
     </div>
     <div class="column">
-        <img src="assets/longboard.jpg" style="width:100%">
+        <img alt="Longboarding" src="assets/longboard.jpg" style="width:100%">
     </div>
     <div class="column">
-        <img src="assets/nature.jpg" style="width:100%">
+        <img alt="Nature Photography" src="assets/nature.jpg" style="width:100%">
     </div>
     <div class="column">
-        <img src="assets/friends.jpg" style="width:100%">
+        <img alt="Friends :)" src="assets/friends.jpg" style="width:100%">
     </div>
 </div>
 Longboarding, snowboarding, hiking & nature photography, and hanging with my friends and family.  
