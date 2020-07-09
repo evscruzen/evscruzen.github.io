@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<meta name="description" content="Evan Cruzen's resume and portfolio.">
+<meta name="viewport" content="width=device-width, initial-scale=1">\
 <div class="bip">
         <p><b>Software Engineer</b> with a Bachelor of Science degree in Computer Science from the University of Massachusetts, Dartmouth; 2020 graduate.</p>
         <p>Experience in C, Java, Python, SQL, HTML &amp; CSS, GitHub and Salesforce CRM.</p>
@@ -87,7 +89,7 @@ GPA: **3.2**
 Longboarding, snowboarding, hiking & nature photography, and hanging with my friends and family.  
 
 {{ "# **Resume**" | markdownify }}
-Download my full resume [**here**](https://docs.google.com/document/d/1s4SIUuEENXUxwgMfRFg00Tr1pSFCsMaY7A9F86chPZI/export?format=pdf)
+[**Download my full resume here**](https://docs.google.com/document/d/1s4SIUuEENXUxwgMfRFg00Tr1pSFCsMaY7A9F86chPZI/export?format=pdf)
 
 {{ "# **Contact Info**" | markdownify }}
 Send me an email at: [**evanscruzen@gmail.com**](mailto:evanscruzen@gmail.com)  
