@@ -5,7 +5,6 @@
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #4169e1; }
 .main-content p { margin-bottom: 1em; }
-
 .page-header {
   color: #ffff;
   background-color: #4169e1;
@@ -29,8 +28,8 @@
     display: none;
 }
 .bop {
-        float: top;
-        margin-right: 400px;
+    float: top;
+    margin-right: 400px;
 }
 
 // 4 images on one line
@@ -67,7 +66,6 @@
 html {
   scroll-behavior: smooth;
 }
-
 
 body {
     font-family: "Roboto", sans-serif;
